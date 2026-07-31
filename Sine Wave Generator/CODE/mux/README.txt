@@ -237,9 +237,3 @@ o = i2 = 0
 # 👨‍💻 Author
 
 **Maddineni Dileep Kumar**
-
-**Domain:** VLSI | RTL Design | Digital IC Design
-
-GitHub Portfolio: *Add your GitHub profile link here.*
-
----
